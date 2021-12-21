@@ -1,0 +1,19 @@
+.box{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    border: 1px solid black;
+}
+.model{
+    position: relative;
+    width: 75%;
+    background-color: aliceblue;
+    padding: 20px;
+    box-shadow: rgb(100 100 111 / 20%) 0px 7px 29px 0px;
+   
+}
+.right-corner{
+    position: absolute;
+    right: 0;
+    top: 0;
+}

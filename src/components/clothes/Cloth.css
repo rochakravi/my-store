@@ -1,0 +1,9 @@
+.product{
+    display: flex;
+    flex-direction: column;
+    font-size: 14px;
+    width: 250px;
+}
+h4{
+    margin: 10px 0 0 10px;
+}
